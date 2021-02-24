@@ -228,7 +228,7 @@ table{
     padding: .9em 1em;
     background-color:#29ABF4; 
     border: none;
-    font-family: 'PT Sans', sans-serif;
+    color: #ffffff;
     font-size: 1em;
     cursor: pointer;
     border-radius: .2em;
@@ -243,4 +243,8 @@ table{
 
 .radio label{
     margin-left: 25px;
+}
+
+input{
+    font-family: 'Poppins', sans-serif;
 }
