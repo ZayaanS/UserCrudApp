@@ -219,7 +219,7 @@ table{
 .radio input[type='radio']:disabled + .radio-label:before{
     box-shadow: inset 0 0 0 4px #e9ecef;
     border-color: #b4b4b4;
-    background: #b4b4b4;
+    background: #020202;
 }
 
 #update_user .form-group .btn,
@@ -245,6 +245,6 @@ table{
     margin-left: 25px;
 }
 
-input{
+input, input::placeholder{
     font-family: 'Poppins', sans-serif;
 }
