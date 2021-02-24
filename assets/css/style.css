@@ -149,7 +149,7 @@ table{
 
 /*  add user & update user template */
 .form-title{
-    margin-top: 2em;
+    margin-top: 0;
 }
 
 .form-title > h2{
